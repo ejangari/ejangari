@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Bachelor of Science in Systems Engineering :woman_technologist: and Software Management Specialist from :colombia: Colombia, South America :earth_americas:
+I'm a Bachelor of Science in Systems Engineering :woman_technologist: and Software Management Specialist from :colombia: Colombia, South America :earth_americas:
 
 
 ✨ **About Me in a few seconds** ✨
