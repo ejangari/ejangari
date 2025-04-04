@@ -37,7 +37,10 @@ I'm a Bachelor of Science in Systems Engineering :woman_technologist: and Softwa
   - Scrum Master at Tech and Solve, 2013 - 2018, Colombia
   - Performance Architect at	 Tech and Solve, 2009-2013, Colombia
   - Development Engineer at Trebol Software, 2007-2009, Colombia
-
+ 
 - 💬 Ask me about Software team building and Customer relationships, Performance Testing and Tuning, and Basketball :basketball_woman:
 
 - :woman_office_worker: Pronouns: She, Her, Hers
+
+- Portfolio: <a href="https://github.com/ejangari/portfolio/blob/main/index.html"><img width="950" width="950" alt="Screenshot 2025-04-02 at 4 10 08 PM"  src="https://github.com/user-attachments/assets/dbb645ef-ba40-4917-a287-f8ea3c359452" alt="Clickable Image"></a>
+
