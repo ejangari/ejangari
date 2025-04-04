@@ -12,13 +12,13 @@ I'm a Bachelor of Science in Systems Engineering :woman_technologist: and Softwa
 - :dart: I'm a proactive person, always willing to take on new challenges and with the capacity for self-management
     
 - 📃 Certificates:
+  - Certified Scrum Master
+  - Certified Scrum Developer
+  - Certified Program - Software Architecture Design
   - Javascript: The Hard Parts v2
   - React Hooks workshop
   - React Fundamentals workshop
   - Complete Intro to React v7
-  - Certified Scrum Master
-  - Certified Scrum Developer
-  - Certified Program - Software Architecture Design
   
 - 💪📚💡Skills:
   - Organizational Leadership
