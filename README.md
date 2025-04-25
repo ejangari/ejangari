@@ -41,5 +41,5 @@ I'm Eddy Angarita, and I'm a Bachelor of Science in Systems Engineering :woman_t
 
 - :woman_office_worker: Pronouns: She, Her, Hers
 
-- Portfolio: <a href="https://github.com/ejangari/ejangari.github.io"><img width="950" width="950" alt="Screenshot 2025-04-02 at 4 10 08 PM"  src="https://github.com/user-attachments/assets/dbb645ef-ba40-4917-a287-f8ea3c359452" alt="Clickable Image"></a>
+- Portfolio: <a href="https://ejangari.github.io"><img width="950" width="950" alt="Screenshot 2025-04-02 at 4 10 08 PM"  src="https://github.com/user-attachments/assets/dbb645ef-ba40-4917-a287-f8ea3c359452" alt="Clickable Image"></a>
 
